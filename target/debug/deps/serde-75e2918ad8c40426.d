@@ -1,0 +1,12 @@
+/Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/deps/serde-75e2918ad8c40426.d: /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/lib.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/integer128.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/mod.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/de.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/ser.rs /Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs
+
+/Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/deps/libserde-75e2918ad8c40426.rmeta: /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/lib.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/integer128.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/mod.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/de.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/ser.rs /Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs
+
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/lib.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/integer128.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/mod.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/de.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/serde-1.0.228/src/private/ser.rs:
+/Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/build/serde-2beb76a2a4a45d11/out

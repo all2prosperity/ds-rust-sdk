@@ -1,0 +1,9 @@
+/Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/deps/socket2-0964e4de48acedc8.d: /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/lib.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sockaddr.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/socket.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sockref.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sys/unix.rs
+
+/Users/trevorlink/Project/tiebao/utils/DataSneaker/sdk/rust/target/debug/deps/libsocket2-0964e4de48acedc8.rmeta: /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/lib.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sockaddr.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/socket.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sockref.rs /Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sys/unix.rs
+
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/lib.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sockaddr.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/socket.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sockref.rs:
+/Users/trevorlink/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/socket2-0.6.3/src/sys/unix.rs:
