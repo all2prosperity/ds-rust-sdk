@@ -104,7 +104,7 @@ impl Client {
             timestamp: now,
             app_version: self.config.app_version.clone(),
             platform: self.config.platform.clone(),
-            os_version: None,
+            os_version: self.config.os_version.clone(),
             screen_name: event.screen_name,
             properties: event.properties,
         };
