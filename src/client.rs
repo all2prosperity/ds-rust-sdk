@@ -44,7 +44,7 @@ impl Client {
             .clone()
             .unwrap_or_else(|| uuid::Uuid::new_v4().to_string());
         let session_id = uuid::Uuid::new_v4().to_string();
-        let user_id = Arc::new(Mutex::new(config.user_id.clone()));
+        let user_id = Arc::new(Mutex::new(config.user_id.clone().unwrap_or_default()));
 
         let queue: Arc<Mutex<VecDeque<EventPayload>>> = Arc::new(Mutex::new(VecDeque::new()));
         let shutdown_notify = Arc::new(Notify::new());

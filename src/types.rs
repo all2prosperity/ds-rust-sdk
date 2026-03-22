@@ -5,7 +5,7 @@ use std::collections::HashMap;
 pub struct ClientConfig {
     pub server_url: String,
     pub app_key: Option<String>,
-    pub user_id: String,
+    pub user_id: Option<String>,
     pub device_id: Option<String>,
     pub app_version: Option<String>,
     pub platform: Option<String>,
@@ -20,7 +20,7 @@ impl Default for ClientConfig {
         Self {
             server_url: "http://localhost:8080".into(),
             app_key: None,
-            user_id: String::new(),
+            user_id: None,
             device_id: None,
             app_version: None,
             platform: None,
